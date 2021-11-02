@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\введение в прог\\newfolder\\newfolder.csproj",
-      "projectName": "newfolder",
-      "projectPath": "C:\\Users\\User\\Desktop\\введение в прог\\newfolder\\newfolder.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\введение в прог\\array\\array.csproj",
+      "projectName": "array",
+      "projectPath": "C:\\Users\\User\\Desktop\\введение в прог\\array\\array.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\введение в прог\\newfolder\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\введение в прог\\array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
