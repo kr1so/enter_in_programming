@@ -27,7 +27,8 @@ void PrintArray(int[] col) //метод, который печатает мас�
    int position = 0;
    while (position<count)
    {
-        Console.WriteLine(col[position]);
+        Console.Write(col[position]);
+        Console.Write(" ");
         position ++;
    }
 
