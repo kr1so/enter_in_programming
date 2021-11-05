@@ -1,13 +1,9 @@
 ﻿/*Задача
 Имеется числовой массив A заполненный числами из отрезка [minValue; maxValue]. +
-Создать на его основе масив B, отбрасывая те, которые нарушают порядок
+Создать на его основе масив B, отбрасывая те, которые не
+элементы, больше 8
 
-    возрастания
-    элементы, больше 8
-    знакочередования*/
-
-
-//ввожу методы для дальнейшей работы
+//ввожу методы для дальнейшей работы*/
 
 void FillArray(int[] array) 
 {
@@ -35,12 +31,11 @@ void PrintArray(int[] array)
 int [] arrayA = new int [10];
 int minValue = -50;
 int maxValue = 50;
-Console.Write("min number ");
+/*Console.Write("min number ");
 Console.WriteLine(minValue); // отобрадаю числа на консоли
 Console.Write("max number ");
 Console.WriteLine(maxValue);
-Console.WriteLine("array А");
-
+Console.WriteLine("array А");*/
 int index = 0;
 while (index < 10)
     {
@@ -48,21 +43,13 @@ while (index < 10)
     Console.Write($"{arrayA[index]} ") ;
     index++;
     }
-    
-Console.WriteLine();
-int [] arrayAB = new int [10];
-FillArray(arrayAB); 
-//Console.WriteLine("array AB");
-//PrintArray(arrayAB);
-int current = arrayA[0];  //текущий массив
-for (int i = 0; i > current; i++)
+if (arrayA[i]+1>array[i])
+
+int [] arrayB = arrayA[i];
 {
-    Console.WriteLine();
-}
-int [] arrayB = new int [current];// ввод массива В, заполненным числами current
-for (int i = 0; i < arrayAB.Length; i++)
+for (int i = 0; i > minValue; i++)
 {
-    Console.WriteLine();
+    current = arrayB[i];
+    Console.WriteLine(arrayB);
 }
-Console.WriteLine("array B:");
-PrintArray(arrayB);
+}
