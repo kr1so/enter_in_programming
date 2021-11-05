@@ -1,7 +1,6 @@
 ﻿/*Задача
-Имеется числовой массив A заполненный числами из отрезка [minValue; maxValue]. +
-Создать на его основе масив B, отбрасывая те, которые не
-элементы, больше 8
+Имеется числовой массив A заполненный числами из отрезка [minValue; maxValue].
+Создать на его основе масив B с числами, которые не нарушают порядок возрастания*/
 
 //ввожу методы для дальнейшей работы*/
 
@@ -32,40 +31,39 @@ int [] arrayA = new int [10];
 int minValue = -50;
 int maxValue = 50;
 /*Console.Write("min number ");
-Console.WriteLine(minValue); // отобрадаю числа на консоли
+Console.WriteLine(minValue); // отображаю числа на консоли
 Console.Write("max number ");
 Console.WriteLine(maxValue);
 Console.WriteLine("array А");*/
-for (int index = 0; index < 10; index++)
+for (int index = 0; index < 10; index++) //цикл для заполнения мин и макс
 {
-    
     arrayA[index] = new Random().Next (minValue, maxValue);
     Console.Write($"{arrayA[index]} ") ;
 }
-int [] arrayAB = new int [10];
-int current = arrayA[0];
-int counter = 0;
-for (int index = 0; index<arrayA.Length; index++)
+int [] arrayAB = new int [10];//ввожу массив AB, чтоб заполнить нужными числами
+int current = arrayA[0]; //обожражаю нулевой элемент массива (в current)
+int counter = 0; //куда записываются все числа 
+for (int index = 0; index<arrayA.Length; index++) //индекс изменяется от 0 до значения размера массива А
 {
-    if (index == 0)
+    if (index == 0)//если индекс = 0
     {
-        arrayA[counter]=current;
-        current = arrayA[index];
-        counter++;
+        arrayAB[counter]=current;//текущий 0 элемент второго массива = элементу массива А
+        current = arrayA[index]; //текущий элемент
+        counter++; //увеличиваю счетчик counter на 1
     }
-    if (current < arrayA.Length)
+    if (current < arrayA.Length) //если 0 элемент < первого 
     {
-        arrayAB[counter]=arrayA[index];
-        current = arrayA[index];
-        counter++;
+        arrayAB[counter]=arrayA[index]; // текущее значение = текущему индексу
+        current = arrayA[index]; //текущий элемент соответствует новому значению
+        counter++; //увеличиваю счетчик counter на 1
     }
 }
-int[] arrayB= new int[counter];
+int[] arrayB= new int[counter]; //ввожу новый массив В с новыми числами, состоящими из счетчика
 for (int index = 0; index < counter; index++)
 {
     arrayB[index] = arrayAB[index];
     Console.WriteLine("массив B");
-    PrintArray(arrayB);
 }
+PrintArray(arrayB);
 
 
