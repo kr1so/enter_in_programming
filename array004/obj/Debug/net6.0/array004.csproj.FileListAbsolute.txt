@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.GlobalUsings.g.cs
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.AssemblyInfo.cs
+C:\Users\User\Desktop\введение в прог\array004\obj\Debug\net6.0\array004.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.GlobalUsings.g.cs
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.AssemblyInfo.cs
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\array002.exe
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\array002.deps.json
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\array002.runtimeconfig.json
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\array002.dll
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\ref\array002.dll
+C:\Users\User\Desktop\введение в прог\array002\bin\Debug\net6.0\array002.pdb
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.dll
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\ref\array002.dll
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.pdb
+C:\Users\User\Desktop\введение в прог\array002\obj\Debug\net6.0\array002.genruntimeconfig.cache

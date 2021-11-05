@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.GlobalUsings.g.cs
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.AssemblyInfo.cs
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\dev2.exe
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\dev2.deps.json
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\dev2.runtimeconfig.json
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\dev2.dll
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\ref\dev2.dll
+C:\Users\User\Desktop\введение в прог\dev2\bin\Debug\net6.0\dev2.pdb
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.dll
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\ref\dev2.dll
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.pdb
+C:\Users\User\Desktop\введение в прог\dev2\obj\Debug\net6.0\dev2.genruntimeconfig.cache
