@@ -46,5 +46,5 @@ int [] array = new int [10];
 FillArray(array); 
 PrintArray(array); 
 Console.WriteLine();
-int pos = Nindex(array, 4);
+int pos = index(array, 4);
 Console.WriteLine(pos);

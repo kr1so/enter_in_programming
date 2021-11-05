@@ -5,7 +5,7 @@
 
 //ввожу методы для дальнейшей работы*/
 
-void FillArray(int[] array) 
+/*void FillArray(int[] array) 
 {
   int length = array.Length; 
   int index = 0;
@@ -15,7 +15,7 @@ void FillArray(int[] array)
     index ++;
     
    }
-}
+}*/
 void PrintArray(int[] array) 
 {
    int count = array.Length;
@@ -36,20 +36,36 @@ Console.WriteLine(minValue); // отобрадаю числа на консол�
 Console.Write("max number ");
 Console.WriteLine(maxValue);
 Console.WriteLine("array А");*/
-int index = 0;
-while (index < 10)
-    {
-    arrayA[index] = new Random().Next (minValue, maxValue); //заполняю рандом числами в диапазоне от рандом мин до рандом макс
+for (int index = 0; index < 10; index++)
+{
+    
+    arrayA[index] = new Random().Next (minValue, maxValue);
     Console.Write($"{arrayA[index]} ") ;
-    index++;
+}
+int [] arrayAB = new int [10];
+int current = arrayA[0];
+int counter = 0;
+for (int index = 0; index<arrayA.Length; index++)
+{
+    if (index == 0)
+    {
+        arrayA[counter]=current;
+        current = arrayA[index];
+        counter++;
     }
-if (arrayA[i]+1>array[i])
+    if (current < arrayA.Length)
+    {
+        arrayAB[counter]=arrayA[index];
+        current = arrayA[index];
+        counter++;
+    }
+}
+int[] arrayB= new int[counter];
+for (int index = 0; index < counter; index++)
+{
+    arrayB[index] = arrayAB[index];
+    Console.WriteLine("массив B");
+    PrintArray(arrayB);
+}
 
-int [] arrayB = arrayA[i];
-{
-for (int i = 0; i > minValue; i++)
-{
-    current = arrayB[i];
-    Console.WriteLine(arrayB);
-}
-}
+
