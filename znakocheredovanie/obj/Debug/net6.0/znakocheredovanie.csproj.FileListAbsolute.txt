@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\znakocheredovanie.exe
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\znakocheredovanie.deps.json
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\znakocheredovanie.runtimeconfig.json
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\znakocheredovanie.dll
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\ref\znakocheredovanie.dll
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\bin\Debug\net6.0\znakocheredovanie.pdb
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.GlobalUsings.g.cs
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.AssemblyInfo.cs
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.dll
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\ref\znakocheredovanie.dll
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.pdb
+C:\Users\User\Desktop\введение в прог\znakocheredovanie\obj\Debug\net6.0\znakocheredovanie.genruntimeconfig.cache
